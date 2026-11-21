@@ -1,0 +1,6 @@
+{
+  "name": "Velvet Rummy Den",
+  "description": "13-card Indian Rummy with Points, Pool 101/201, Deals Rummy, multiplayer tables, and CPU practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

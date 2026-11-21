@@ -1,0 +1,25 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val ObsidianBg = Color(0xFF08120E)
+val VelvetSurface = Color(0xFF10241B)
+val VelvetSurfaceElevated = Color(0xFF173327)
+val FeltCenter = Color(0xFF135D3E)
+val FeltEdge = Color(0xFF082E1E)
+val MahoganyRim = Color(0xFF281B16)
+val MahoganyRimDark = Color(0xFF140D0A)
+val ChampagneGold = Color(0xFFE5B84B)
+val GoldDark = Color(0xFFC49222)
+val EmeraldCta = Color(0xFF18A957)
+val EmeraldCtaBright = Color(0xFF22C56B)
+val CardIvory = Color(0xFFFBF8F1)
+val CardBorder = Color(0xFFD5CCB8)
+val CardBackCrimson = Color(0xFF7B1427)
+val CardBackCrimsonDark = Color(0xFF480914)
+val SuitCrimson = Color(0xFFC62828)
+val SuitInk = Color(0xFF171B18)
+val TextLight = Color(0xFFF4EFE4)
+val TextMuted = Color(0xFF9EB5A8)
+val SkyHighlight = Color(0xFF38BDF8)
+val DangerRed = Color(0xFFEF5350)
